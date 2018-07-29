@@ -1,7 +1,25 @@
 # **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Idea                                               :+:      :+:    :+:    #
+#This App allows users to predict their team scores and wins with their 
+families and friends.A prize is connected to however predicts the correct score.
+#Suggest way of income is a small deduction fee from the prize.
+# App meant for android users since almost all kenyans use android powered phones.
+This app is guarenteed success since kenyans have expressed interest in prediction of games 
+and placing their money to it.But users have not been able to play along with this idea with friends and families.
+This will bring more fun and predictions will be more social and genuine.
+I suggest running a test to this project on Telegram.
+Telegram platform allows developers to integrate their html games.
+This games can be played in groups and personal chats.The scores for each member in a chat is posted and 
+updated depending on members high score.
+I think we can build a simple html page where telegram users predict the winning team (soccer) in their telegram chats.
+Telegram has a high number of kenyan users.
+I expect Joe to try playing some telegram games and see what am talking about.
+And also read the telegram game API.We should build the test page and intergrate with telegram within days.
+This test will help us know how kenyans will interact with our app.The telegram games go viral so fast for their easy sharing and group
+plays.
+After the test i expect we start developing the App idea.
+Comment and tell me what you think.
+
+#    Idea    :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
 #    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
