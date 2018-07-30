@@ -1,5 +1,26 @@
 # **************************************************************************** #
-#                                                                              #
+#    App lets users predict teams and their scores amongst friends and families.
+     A reward is connected to that to whom the prediction is correct.
+     Proposed way of earning in our App - Small fee deduction to the predict prize of users.
+     Proposed predict prize credit airtime (later money after testing and adhering to legal qualifications)
+     Estimated to be daily users on app on a lower side 1 million kenyans.
+     -I think we should first do test on telegram.
+     Telegram game platform allows html games to share scores and compete in chats.
+     We can build a simple html page that allow users to predict the winning team
+     of a soccer game.Telegram games are played in chats eg group and personal  chats.Each member of the chat 
+     is able to see their fellow members scores and hence they are able to compete and have fun.
+     I expect (Joe) to go through telegram game API https://core.telegram.org/bots/games
+     and also play some games in telegram and see what talking about.
+     -Telegram is widely used here in Kenya and hence a good platform for testing.
+     The test will help us know how people will receive and use our app.
+     -Estimated days of completion of test page - 3 days.
+     -Kindly comment and tell me how you view this.
+     App to be in android version.
+     IDE - react native
+     Targeted users - sports fans (soccer)
+     Tested market - current betting environment.
+     
+#
 #                                                         :::      ::::::::    #
 #    Idea                                               :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
